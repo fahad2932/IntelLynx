@@ -1,0 +1,5 @@
+python 
+langchain
+pinecone
+langchain_pinecone
+langchain_community
