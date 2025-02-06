@@ -22,3 +22,5 @@ docx2txt
 PyMuPDF
 langchain-huggingface
 sentence-transformers
+pytesseract
+Pillow
